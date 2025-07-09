@@ -1,25 +1,31 @@
 # World Happiness Dashboard
 
-This interactive dashboard, built entirely in Excel, visualizes World Happiness data across multiple years. It provides insights into happiness scores, country rankings, and key factors that influence well-being worldwide.
+This interactive dashboard, built in Microsoft Excel, visualizes World Happiness data across multiple years. It provides insights into global happiness scores, country rankings, and key factors influencing well-being worldwide.
 
 ## 📊 Features
 
 - Average Global Happiness Score
 - Top Ranked Countries and their scores
-- Global Happiness Map displaying scores by country
-- Happiness Rank Timeline for individual countries
+- Global Happiness Map showing scores by country
+- Happiness Rank Timeline for selected countries
 - Happiness Score Tracker across years
-- Radar Chart showing breakdown of happiness factors (GDP, Family, Health, Freedom, Trust, Generosity)
-- Top 10 Happiest Countries bar chart
-- Bottom 10 Happiest Countries bar chart
-- Year slicer for exploring trends from 2015 to 2019
+- Radar Chart displaying happiness factors:
+  - Economy (GDP)
+  - Family
+  - Health
+  - Freedom
+  - Trust
+  - Generosity
+- Top 10 Happiest Countries chart
+- Bottom 10 Happiest Countries chart
+- Year slicer for exploring trends (2015 – 2019)
 
 ## 🛠 Tools Used
 
 - Microsoft Excel
 - Data Visualization techniques
 - Pivot tables and charts
-- Interactive slicers and controls
+- Interactive slicers
 
 ## 🌍 Data Source
 
@@ -27,16 +33,16 @@ This interactive dashboard, built entirely in Excel, visualizes World Happiness 
 
 ## 🖼 Screenshot
 
-(![World hapiness dashboard](https://github.com/user-attachments/assets/d2b0c586-1441-45d7-8404-7863b7063e73)
-
+![World Happiness Dashboard](https://github.com/Mohamed-Aslam-29/World-Happiness-Dashboard/blob/main/World%20hapiness%20dashboard.png?raw=true)
 
 ## 🚀 How to View
 
 - Download the Excel file from this repository
 - Open it in Microsoft Excel (2016 or newer recommended)
-- Use the slicers to explore different years and country comparisons
+- Use slicers to explore different years and country comparisons
 
 ## 👤 Author
 
-[Your Name](https://github.com/Mohamed-Aslam-29)
+[Mohamed Aslam](https://github.com/Mohamed-Aslam-29)
+
 
