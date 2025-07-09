@@ -124,7 +124,7 @@ Let’s walk through each element of the dashboard in detail:
 ## 🚀 How to Use the Dashboard
 
 1. Download the Excel file:
-   - [World Happiness Dashboard.xlsx](https://github.com/Mohamed-Aslam-29/World-Happiness-Dashboard/blob/main/World%20Happiness%20Dashboard.xlsx)
+   - [World Happiness Dashboard.xlsx]([https://github.com/Mohamed-Aslam-29/World-Happiness-Dashboard/blob/main/World%20Happiness%20Dashboard.xlsx](https://github.com/Mohamed-Aslam-29/World-Happiness-Dashboard))
 
 2. Open it in **Microsoft Excel** (2016 or newer recommended).
 
