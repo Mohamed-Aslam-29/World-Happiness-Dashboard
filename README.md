@@ -27,7 +27,8 @@ This interactive dashboard, built entirely in Excel, visualizes World Happiness 
 
 ## 🖼 Screenshot
 
-![World Happiness Dashboard](Worldhapinessdashboard.png)
+(![World hapiness dashboard](https://github.com/user-attachments/assets/d2b0c586-1441-45d7-8404-7863b7063e73)
+
 
 ## 🚀 How to View
 
