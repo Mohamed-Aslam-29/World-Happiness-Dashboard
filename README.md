@@ -124,11 +124,10 @@ Let’s walk through each element of the dashboard in detail:
 ## 🚀 How to Use the Dashboard
 
 1. Download the Excel file:
-2. [[World Happiness Dashboard.xlsx]((https://github.com/Mohamed-Aslam-29/World-Happiness-Dashboard/blob/main/Cleaned%20Happiness%20Data.xlsx)])
 
-3. Open it in **Microsoft Excel** (2016 or newer recommended).
+2. Open it in **Microsoft Excel** (2016 or newer recommended).
 
-4. Use the **Year Slicer** to:
+3. Use the **Year Slicer** to:
    - Switch between years (2015 – 2019)
    - Instantly update all visuals and insights.
 
